@@ -55,6 +55,10 @@
   </a>
 </p>
 
+## GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanSimeonov&layout=compact&theme=slateorange)](https://github.com/IvanSimeonov/github-readme-stats)
+
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanSimeonov&show_icons=true&theme=slateorange)](https://github.com/IvanSimeonov/github-readme-stats)
 
 ## Contact me
 <p align="left">
