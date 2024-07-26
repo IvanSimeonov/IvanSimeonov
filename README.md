@@ -9,14 +9,14 @@
 ## About me
 **Location:** Sofia, Bulgaria 📍<br/>
 **Position:** Software Developer 💻<br/>
-**Languages:** English 🇬🇧, German 🇩🇪<br/>
+**Languages:** Bulgarian 🇧🇬, English 🇬🇧, German 🇩🇪<br/>
 **Other:** Vegetarian 🥬, Coffeetarian ☕️<br/>
 
 ## Tech stack
 #### Frontend:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,redux,materialui,angular" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,angular" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 #### Databases:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
   </a>
 </p>
 
@@ -44,14 +44,7 @@
 #### Other:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker" />
-  </a>
-</p>
-
-#### Currently exploring:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vim,jenkins,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins" />
   </a>
 </p>
 
