@@ -55,6 +55,9 @@
 
 ## Contact me
 <p align="left">
+  <a href="mailto:ivannicksimeonov@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
   <a href="https://www.linkedin.com/in/ivannicksimeonov">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
